@@ -3,51 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>The Story of David Gambesi</title>
-  <style>
-    body {
-      font-family: Georgia, serif;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 2rem;
-      background-color: white;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-    header {
-      text-align: center;
-      margin-bottom: 2rem;
-    }
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
-    }
-    h2 {
-      font-size: 1.2rem;
-      color: #777;
-    }
-    article p {
-      line-height: 1.6;
-      margin-bottom: 1rem;
-    }
-    footer {
-      margin-top: 2rem;
-      font-style: italic;
-      color: #555;
-    }
-  </style>
+ 
 </head>
 <body>
   <div class="container">
     <header>
-      <h1>From the Shadows of War to the Shores of the Black Sea</h1>
-      <h2>The Untold Story of David Gambesi</h2>
-      <p><em>By Rachel Neuman, The Jerusalem Herald | June 14, 1990</em></p>
+  <h1>From the Shadows of War to the Shores of the Black Sea</h1>
+   <h2>The Untold Story of David Gambesi</h2>
+   <p><em>By Rachel Neuman, The Jerusalem Herald | June 14, 1990</em></p>
     </header>
 
    <article>
